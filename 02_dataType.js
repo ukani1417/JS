@@ -13,3 +13,21 @@ let isWeak; // undifined
 [name, age, isOld, hasPension, isWeak].forEach((val) => {
     console.log(typeof val)
 })
+
+
+// Summary
+
+/*
+1. Primitive
+    String
+    Number
+    Boolean
+    Null(empty)
+    undefine
+    Symbol
+    BigInt
+2.  NonPrimitive
+    Object
+    Array
+    Functions
+*/
